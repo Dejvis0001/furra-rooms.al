@@ -48,7 +48,7 @@ a {
     transition: all 0.3s;
 }
 section {
-    padding: 75px 0;
+    padding: 50px 0;
 }
 .row {
     display: flex;
@@ -144,7 +144,7 @@ body::-webkit-scrollbar-thumb {
     padding: 15px 0;
 }
 .navbar-toggler {
-    background-color: #0e1927;
+    background-color: #8b6a50;
     color: transparent !important;
 }
 .navbar-toggler-icon {
@@ -414,7 +414,7 @@ ul.link_menu li a:hover {
 }
 /*About Us*/
 #about-head {
-    background: url(assets/image/2.jpg) rgba(0, 0, 0, 0.5);
+    background: url(assets/image/31.jpg) rgba(0, 0, 0, 0.5);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -424,9 +424,10 @@ ul.link_menu li a:hover {
     display: flex;
     align-items: center;
 }
+.aboutp{font-size: 24px !important;}
 /*Gallery*/
 #gallery-head {
-    background: url(assets/image/3.jpg) rgba(0, 0, 0, 0.5);
+    background: url(assets/image/13.jpg) rgba(0, 0, 0, 0.5);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -444,7 +445,7 @@ ul.link_menu li a:hover {
 }
 /*Contact Us*/
 #contact-head {
-    background: url(assets/image/1.jpg) rgba(0, 0, 0, 0.5);
+    background: url(assets/image/11.jpg) rgba(0, 0, 0, 0.5);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -598,7 +599,7 @@ ul.link_menu li a:hover {
 }
 /*Rooms*/
 #rooms-head {
-    background: url(assets/image/5.jpg) rgba(0, 0, 0, 0.5);
+    background: url(assets/image/2.jpg) rgba(0, 0, 0, 0.5);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -670,7 +671,7 @@ button:hover {
 }
 /*Restaurant*/
 #restaurant-head {
-    background: url(assets/image/4.jpg) rgba(0, 0, 0, 0.5);
+    background: url(assets/image/33.jpg) rgba(0, 0, 0, 0.5);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -870,4 +871,6 @@ button#btn-back-to-top.btn.btn-floating i.fas.fa-arrow-up {
     html body main section div.container div.wrap-btn.text-center.justify-content-center.d-flex{margin: 60px 0 50px 0;}
     .room-swiper .room-card{width: 100%;}
     .menu-core-title-item-title{text-align: center;}
+    .block-text .title{font-size: 25px;}
+    .abpp{font-size: 17px;}
 }
